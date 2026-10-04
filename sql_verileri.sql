@@ -9,7 +9,7 @@ CREATE TABLE calisanlar (
 );
 
 INSERT INTO calisanlar (ad, soyad, departman, maas) VALUES
-    ('Enes', 'Bünyamin', 'Yazılım', 65000),
+    ('Enes', 'Coşkun', 'Yazılım', 65000),
     ('Ayşe', 'Demir', 'Finans', 58000),
     ('Mehmet', 'Kaya', 'İnsan Kaynakları', 54000),
     ('Zeynep', 'Acar', 'Satış', 62000),
